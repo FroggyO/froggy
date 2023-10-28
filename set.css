@@ -1,0 +1,38 @@
+table{
+    width: 500px;height: 300px;
+}
+td{
+    font-weight: normal;text-align: center;
+    font-style: italic;
+}
+th{
+    font-weight: bold;
+}
+h2{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+    text-align: justify;
+    line-height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 50px;
+    text-decoration: underline;
+    text-decoration: royalblue;
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: yellowgreen;
+}
+p{
+    font-size: 30px;
+}
+ul li i {
+    color: crimson;
+}
+p i {
+    color: gold;
+}
